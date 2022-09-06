@@ -1,151 +1,151 @@
 {
-    "response": [
+    "Form Responses 1": [
         {
-            "Timestamp": "9/4/2022 20:18:12",
-            "Mata Kuliah": "Analisis Multivariat-Project Based",
-            "Dosen 1": "Lilies Handayani, S.Si., M.Si.",
-            "Dosen 2": "Rais, S.Si., M.Si.",
-            "Upload File RPS": "https://drive.google.com/open?id=17qy0zpdDUWRoDQHkhoHlYvr0uskvU0lo"
+            "timestamp": "9/4/2022 20:18:12",
+            "mata_kuliah": "Analisis Multivariat-Project Based",
+            "dosen_1": "Lilies Handayani, S.Si., M.Si.",
+            "dosen_2": "Rais, S.Si., M.Si.",
+            "upload": "https://drive.google.com/open?id=17qy0zpdDUWRoDQHkhoHlYvr0uskvU0lo"
         },
         {
-            "Timestamp": "9/4/2022 20:19:39",
-            "Mata Kuliah": "Algoritma dan Pemrograman-Project Based",
-            "Dosen 1": "Lilies Handayani, S.Si., M.Si.",
-            "Dosen 2": "Iman Setiawan, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1feCxNPG6i5_U9SSO6fAgPDLe2tkE2_c9"
+            "timestamp": "9/4/2022 20:19:39",
+            "mata_kuliah": "Algoritma dan Pemrograman-Project Based",
+            "dosen_1": "Lilies Handayani, S.Si., M.Si.",
+            "dosen_2": "Iman Setiawan, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=1feCxNPG6i5_U9SSO6fAgPDLe2tkE2_c9"
         },
         {
-            "Timestamp": "9/4/2022 20:20:51",
-            "Mata Kuliah": "Analisis Runtun Waktu-Project Based",
-            "Dosen 1": "Lilies Handayani, S.Si., M.Si.",
-            "Dosen 2": "Rais, S.Si., M.Si.",
-            "Upload File RPS": "https://drive.google.com/open?id=1qf1HS76u-uZnEZ8CC-Zkos9Ea2qoGWe4"
+            "timestamp": "9/4/2022 20:20:51",
+            "mata_kuliah": "Analisis Runtun Waktu-Project Based",
+            "dosen_1": "Lilies Handayani, S.Si., M.Si.",
+            "dosen_2": "Rais, S.Si., M.Si.",
+            "upload": "https://drive.google.com/open?id=1qf1HS76u-uZnEZ8CC-Zkos9Ea2qoGWe4"
         },
         {
-            "Timestamp": "9/4/2022 20:23:52",
-            "Mata Kuliah": "Analisis dan Perancangan Survei-Project Based",
-            "Dosen 1": "Fadjryani, ST., M.Si",
-            "Dosen 2": "Lilies Handayani, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1pYOrDomSQIfpms6v2IA480qiMdz5_Xxj"
+            "timestamp": "9/4/2022 20:23:52",
+            "mata_kuliah": "Analisis dan Perancangan Survei-Project Based",
+            "dosen_1": "Fadjryani, ST., M.Si",
+            "dosen_2": "Lilies Handayani, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=1pYOrDomSQIfpms6v2IA480qiMdz5_Xxj"
         },
         {
-            "Timestamp": "9/4/2022 20:25:01",
-            "Mata Kuliah": "Basis Data dan Penelusuran Data - SQL - Project Based",
-            "Dosen 1": "Rais, S.Si, M.Si",
-            "Dosen 2": "Lilies Handayani, S.Si., M.Si.",
-            "Upload File RPS": "https://drive.google.com/open?id=1ZL3QUHi1KuObV78SgHkBlxY8lYrv32qa"
+            "timestamp": "9/4/2022 20:25:01",
+            "mata_kuliah": "Basis Data dan Penelusuran Data - SQL - Project Based",
+            "dosen_1": "Rais, S.Si, M.Si",
+            "dosen_2": "Lilies Handayani, S.Si., M.Si.",
+            "upload": "https://drive.google.com/open?id=1ZL3QUHi1KuObV78SgHkBlxY8lYrv32qa"
         },
         {
-            "Timestamp": "9/4/2022 20:26:02",
-            "Mata Kuliah": "Analisis Data Klinik - Project Based",
-            "Dosen 1": "Fadjryani, S.T., M.Si.",
-            "Dosen 2": "Iman Setiawan, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=12X2Prd_dLeZ09SOsw0YSuouj0J1PPOQI"
+            "timestamp": "9/4/2022 20:26:02",
+            "mata_kuliah": "Analisis Data Klinik - Project Based",
+            "dosen_1": "Fadjryani, S.T., M.Si.",
+            "dosen_2": "Iman Setiawan, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=12X2Prd_dLeZ09SOsw0YSuouj0J1PPOQI"
         },
         {
-            "Timestamp": "9/4/2022 20:26:00",
-            "Mata Kuliah": "Ekonometrika - Project Based",
-            "Dosen 1": "Lilies Handayani, S.Si., M.Si.",
-            "Dosen 2": "Nurul Fiskia Gamayanti, S.Si., M.Stat",
-            "Upload File RPS": "https://drive.google.com/open?id=14peZrXLCTdcEex10nzTAR4VUF7pbScr5"
+            "timestamp": "9/4/2022 20:26:00",
+            "mata_kuliah": "Ekonometrika - Project Based",
+            "dosen_1": "Lilies Handayani, S.Si., M.Si.",
+            "dosen_2": "Nurul Fiskia Gamayanti, S.Si., M.Stat",
+            "upload": "https://drive.google.com/open?id=14peZrXLCTdcEex10nzTAR4VUF7pbScr5"
         },
         {
-            "Timestamp": "9/4/2022 20:27:57",
-            "Mata Kuliah": "Eksplorasi dan Visualisasi Data",
-            "Dosen 1": "Fadjryani, ST., M.Si",
-            "Dosen 2": "Iman Setiawan, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=18B0VsDWFEITPXk03P520uCKQAW4wA4W_"
+            "timestamp": "9/4/2022 20:27:57",
+            "mata_kuliah": "Eksplorasi dan Visualisasi Data",
+            "dosen_1": "Fadjryani, ST., M.Si",
+            "dosen_2": "Iman Setiawan, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=18B0VsDWFEITPXk03P520uCKQAW4wA4W_"
         },
         {
-            "Timestamp": "9/4/2022 20:31:48",
-            "Mata Kuliah": "Modern Prediksi dan Machine Learning-Project Based",
-            "Dosen 1": "Iman Setiawan, S.Si, M.Si",
-            "Dosen 2": "Desy Lusianti, S.Si., M.Si.",
-            "Upload File RPS": "https://drive.google.com/open?id=1NHr7Ltww62E947dCzmDlYAsE2azaLAyV"
+            "timestamp": "9/4/2022 20:31:48",
+            "mata_kuliah": "Modern Prediksi dan Machine Learning-Project Based",
+            "dosen_1": "Iman Setiawan, S.Si, M.Si",
+            "dosen_2": "Desy Lusianti, S.Si., M.Si.",
+            "upload": "https://drive.google.com/open?id=1NHr7Ltww62E947dCzmDlYAsE2azaLAyV"
         },
         {
-            "Timestamp": "9/4/2022 20:33:05",
-            "Mata Kuliah": "Pengantar Aktuaria-Project Based",
-            "Dosen 1": "Rais, S.Si., M.Si.",
-            "Dosen 2": "Mohammad Fajri, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1Xj8aGvfftPxUV2lKWNAVRbldc1MtPftd"
+            "timestamp": "9/4/2022 20:33:05",
+            "mata_kuliah": "Pengantar Aktuaria-Project Based",
+            "dosen_1": "Rais, S.Si., M.Si.",
+            "dosen_2": "Mohammad Fajri, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=1Xj8aGvfftPxUV2lKWNAVRbldc1MtPftd"
         },
         {
-            "Timestamp": "9/4/2022 20:34:12",
-            "Mata Kuliah": "Psikometrika",
-            "Dosen 1": "Fadjryani, S.T, M.Si",
-            "Dosen 2": "Iman Setiawan, S.Si, M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1DHb0oG526n9fKHnu2z3YgKgmsFuRZWww"
+            "timestamp": "9/4/2022 20:34:12",
+            "mata_kuliah": "Psikometrika",
+            "dosen_1": "Fadjryani, S.T, M.Si",
+            "dosen_2": "Iman Setiawan, S.Si, M.Si",
+            "upload": "https://drive.google.com/open?id=1DHb0oG526n9fKHnu2z3YgKgmsFuRZWww"
         },
         {
-            "Timestamp": "9/4/2022 20:35:52",
-            "Mata Kuliah": "Rancangan Percobaan-Project Based",
-            "Dosen 1": "Rais, S.Si., M.Si",
-            "Dosen 2": "Fadjryani, ST., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=109UxbrkZawxamP8mQJS2QypXauBKmTBe"
+            "timestamp": "9/4/2022 20:35:52",
+            "mata_kuliah": "Rancangan Percobaan-Project Based",
+            "dosen_1": "Rais, S.Si., M.Si",
+            "dosen_2": "Fadjryani, ST., M.Si",
+            "upload": "https://drive.google.com/open?id=109UxbrkZawxamP8mQJS2QypXauBKmTBe"
         },
         {
-            "Timestamp": "9/4/2022 20:37:17",
-            "Mata Kuliah": "Regresi Non Parametrik-Project Based",
-            "Dosen 1": "Lilies Handayani, S.Si., M.Si.",
-            "Dosen 2": "Mohammad Fajri, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1r3tGz-fEfh9Hx3R2pQfSOVSqpJOU7V0R"
+            "timestamp": "9/4/2022 20:37:17",
+            "mata_kuliah": "Regresi Non Parametrik-Project Based",
+            "dosen_1": "Lilies Handayani, S.Si., M.Si.",
+            "dosen_2": "Mohammad Fajri, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=1r3tGz-fEfh9Hx3R2pQfSOVSqpJOU7V0R"
         },
         {
-            "Timestamp": "9/4/2022 20:39:03",
-            "Mata Kuliah": "Komputasi Statistika-Project Based",
-            "Dosen 1": "Fadjryani, ST., M.Si",
-            "Dosen 2": "Lilies Handayani, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1nOdxuvCKIBd6OYru6I7d8Jsuzjk_6V6p"
+            "timestamp": "9/4/2022 20:39:03",
+            "mata_kuliah": "Komputasi Statistika-Project Based",
+            "dosen_1": "Fadjryani, ST., M.Si",
+            "dosen_2": "Lilies Handayani, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=1nOdxuvCKIBd6OYru6I7d8Jsuzjk_6V6p"
         },
         {
-            "Timestamp": "9/4/2022 20:41:15",
-            "Mata Kuliah": "Statistik Resmi-Project Based",
-            "Dosen 1": "Fadjryani, ST., M.Si",
-            "Dosen 2": "Mohammad Fajri, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1x1f49CcULOFPOotyYiniJBtDWZvLS0ji"
+            "timestamp": "9/4/2022 20:41:15",
+            "mata_kuliah": "Statistik Resmi-Project Based",
+            "dosen_1": "Fadjryani, ST., M.Si",
+            "dosen_2": "Mohammad Fajri, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=1x1f49CcULOFPOotyYiniJBtDWZvLS0ji"
         },
         {
-            "Timestamp": "9/4/2022 20:43:28",
-            "Mata Kuliah": "Studi Kependudukan-Project Based",
-            "Dosen 1": "Rais, S.Si.,M.Si.",
-            "Dosen 2": "Mohammad Fajri, S.Si., M.Si.",
-            "Upload File RPS": "https://drive.google.com/open?id=1f3Y9OnLgbQ3TWXKuNQcGTUpGsxtvywpK"
+            "timestamp": "9/4/2022 20:43:28",
+            "mata_kuliah": "Studi Kependudukan-Project Based",
+            "dosen_1": "Rais, S.Si.,M.Si.",
+            "dosen_2": "Mohammad Fajri, S.Si., M.Si.",
+            "upload": "https://drive.google.com/open?id=1f3Y9OnLgbQ3TWXKuNQcGTUpGsxtvywpK"
         },
         {
-            "Timestamp": "9/4/2022 20:44:32",
-            "Mata Kuliah": "Teori Keputusan-Project Based",
-            "Dosen 1": "Junaidi., M.Si, PhD",
-            "Dosen 2": "Iman Setiawan, S.Si, M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1vtuFoVaEYeEyg6wzAtY2Zpk9Ms8nGir6"
+            "timestamp": "9/4/2022 20:44:32",
+            "mata_kuliah": "Teori Keputusan-Project Based",
+            "dosen_1": "Junaidi., M.Si, PhD",
+            "dosen_2": "Iman Setiawan, S.Si, M.Si",
+            "upload": "https://drive.google.com/open?id=1vtuFoVaEYeEyg6wzAtY2Zpk9Ms8nGir6"
         },
         {
-            "Timestamp": "9/4/2022 20:46:18",
-            "Mata Kuliah": "Pengantar Teori Inferensia",
-            "Dosen 1": "Rais S.Si.,M.Si",
-            "Dosen 2": "Mohammad Fajri, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1A29k4ywnSt8Y7cShRnXCG4mzrGdtkLDt"
+            "timestamp": "9/4/2022 20:46:18",
+            "mata_kuliah": "Pengantar Teori Inferensia",
+            "dosen_1": "Rais S.Si.,M.Si",
+            "dosen_2": "Mohammad Fajri, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=1A29k4ywnSt8Y7cShRnXCG4mzrGdtkLDt"
         },
         {
-            "Timestamp": "9/4/2022 20:47:18",
-            "Mata Kuliah": "Inferensi Bayesian-Project Based",
-            "Dosen 1": "Junaidi., M.Si, PhD",
-            "Dosen 2": "Iman Setiawan, S.Si, M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1fRbWzzMDHRsFPyI0ppacWWiIZ4ddOuEl"
+            "timestamp": "9/4/2022 20:47:18",
+            "mata_kuliah": "Inferensi Bayesian-Project Based",
+            "dosen_1": "Junaidi., M.Si, PhD",
+            "dosen_2": "Iman Setiawan, S.Si, M.Si",
+            "upload": "https://drive.google.com/open?id=1fRbWzzMDHRsFPyI0ppacWWiIZ4ddOuEl"
         },
         {
-            "Timestamp": "9/4/2022 20:48:24",
-            "Mata Kuliah": "Jaringan Syaraf Tiruan-Project Based",
-            "Dosen 1": "Rais, S.Si., M.Si",
-            "Dosen 2": "Iman Setiawan, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1vJKh1V9S2pEpL-w0RsKkgUWuKyAJQump"
+            "timestamp": "9/4/2022 20:48:24",
+            "mata_kuliah": "Jaringan Syaraf Tiruan-Project Based",
+            "dosen_1": "Rais, S.Si., M.Si",
+            "dosen_2": "Iman Setiawan, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=1vJKh1V9S2pEpL-w0RsKkgUWuKyAJQump"
         },
         {
-            "Timestamp": "9/4/2022 20:49:10",
-            "Mata Kuliah": "Teori Antrian-Project Based",
-            "Dosen 1": "Nur’eni, S.Si., M.Si",
-            "Dosen 2": "Iman Setiawan, S.Si., M.Si",
-            "Upload File RPS": "https://drive.google.com/open?id=1y32V6mKNwYXn4_ZxWahBnyhHaAkQF1XZ"
+            "timestamp": "9/4/2022 20:49:10",
+            "mata_kuliah": "Teori Antrian-Project Based",
+            "dosen_1": "Nur’eni, S.Si., M.Si",
+            "dosen_2": "Iman Setiawan, S.Si., M.Si",
+            "upload": "https://drive.google.com/open?id=1y32V6mKNwYXn4_ZxWahBnyhHaAkQF1XZ"
         }
     ]
 }
